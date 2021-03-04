@@ -1,0 +1,135 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>TZB-info - články z oboru TZB</title>
+        <link>https://www.tzb-info.cz/</link>
+        <description>portál pro stavebnictví, úspory energií a technická zařízení budov - aktuální informace z oborů vytápění, větrání a klimatizace, voda a kanalizace, obnovitelná energie, výtahy, elektrotechnika</description>
+        <language>cs</language>
+        <copyright>Copyright 2020 Topinfo s.r.o.</copyright>
+        <managingEditor>petr.bohuslavek@topinfo.cz (Petr Bohuslavek)</managingEditor>
+        <webMaster>petr.babis@topinfo.cz (Petr Babis)</webMaster>
+        <image>
+            ...
+        </image>
+        <atom:link href="https://www.tzb-info.cz/rss/clanky-tzb.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Výhody a nevýhody jednotlivých typov zosilnenia lokálně podopretej stropnej dosky</title>
+            <link>https://stavba.tzb-info.cz/stropy/21860-vyhody-a-nevyhody-jednotlivych-typov-zosilnenia-lokalne-podopretej-stropnej-dosky</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021860ou.jpg" medium="image"/>
+            <description>V praxi sa často stretávame s rekonštrukciami budov, v ktorých šmyková odolnosť lokálne podopretých stropných dosiek nie je dostatočná. Dôvodom zosilnenia za účelom nárastu šmykovej odolnosti stropnej dosky v pretlačení môže byť zmena využitia stavby, realizačná alebo návrhová chyba, sprísnenie v posudzovaní šmykovej odolnosti podľa súčasných noriem alebo nedostatočná odolnosť vzhľadom na zvýšené zaťaženie. Návrh zosilnenia exitujúcej stavby by mal byť čo najúčinnejší, najhospodárnejší a zároveň by mal reflektovať požiadavky spojené s existujúcou stavbou. Parametrická štúdia prezentovaná v tomto článku je zameraná na používané spôsoby zosilnenia a ich overenie podľa dostupných výpočtových postupov.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://stavba.tzb-info.cz/stropy/21860-vyhody-a-nevyhody-jednotlivych-typov-zosilnenia-lokalne-podopretej-stropnej-dosky</guid>
+        </item>
+        <item>
+            <title>Webinář CIUR: Vzduchotěsný a přece difúzně otevřený</title>
+            <link>https://stavba.tzb-info.cz/izolace-strechy-fasady/21859-webinar-ciur-vzduchotesny-a-prece-difuzne-otevreny</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021859ou.jpg" medium="image"/>
+            <description>Jaký by měl být standard pro projektanty při posuzování vzduchotěsnosti? Dozvíte se na on-line semináři společnosti CIUR.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://stavba.tzb-info.cz/izolace-strechy-fasady/21859-webinar-ciur-vzduchotesny-a-prece-difuzne-otevreny</guid>
+        </item>
+        <item>
+            <title>Mapy kriminality Ministerstva vnitra a Policie ČR - 1. část</title>
+            <link>https://www.tzb-info.cz/bezpecnost-budov/21858-mapy-kriminality-ministerstva-vnitra-a-policie-cr-1-cast</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021858ou.jpg" medium="image"/>
+            <description>Dne 1. 12. 2020 Ministerstvo vnitra a Policie ČR zveřejnili &#8222;nové&#8220; mapy kriminality. Co nového pro běžného občana na rozdíl od již fungujících map tato &#8222;nová&#8220; přináší? Popravdě nic.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.tzb-info.cz/bezpecnost-budov/21858-mapy-kriminality-ministerstva-vnitra-a-policie-cr-1-cast</guid>
+        </item>
+        <item>
+            <title>Požadavky na ekodesign plynových vytápěcích jednotek od 1. ledna 2021</title>
+            <link>https://vytapeni.tzb-info.cz/vytapeni-prumyslovych-hal-a-velkych-objektu/21857-pozadavky-na-ekodesign-plynovych-vytapecich-jednotek-od-1-ledna-2021</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021857ou.jpg" medium="image"/>
+            <description>Plynové teplovzdušné jednotky jsou využívány téměř výhradně v průmyslových instalacích. Často slouží jako hlavní vytápěcí systém s relativně vysokým instalovaným výkonem. S ohledem na celkovou situaci na trhu energií lze z dlouhodobého hlediska předpokládat nárůst objemu systémů využívajících ke svému pohonu zemní plyn. Je to dáno přirozeným úbytkem zdrojů uhlí a obecně vyšším tlakem na využívání šetrnějších zdrojů energie.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://vytapeni.tzb-info.cz/vytapeni-prumyslovych-hal-a-velkych-objektu/21857-pozadavky-na-ekodesign-plynovych-vytapecich-jednotek-od-1-ledna-2021</guid>
+        </item>
+        <item>
+            <title>Přínosem vodního auditu je šetrnější práce s vodou a vodními zdroji</title>
+            <link>https://voda.tzb-info.cz/vlastnosti-a-zdroje-vody/21856-prinosem-vodniho-auditu-je-setrnejsi-prace-s-vodou-a-vodnimi-zdroji</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021856ou.jpg" medium="image"/>
+            <description>MPO chce cestou tzv. vodních auditů předcházet dopadům sucha na podnikatele. Vyhlásilo novou výzvu z programu OPPIK a připravilo metodiku zacílenou na zpracování hodnocení vodního hospodářství průmyslových podniků.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://voda.tzb-info.cz/vlastnosti-a-zdroje-vody/21856-prinosem-vodniho-auditu-je-setrnejsi-prace-s-vodou-a-vodnimi-zdroji</guid>
+        </item>
+        <item>
+            <title>Kam umístit nádrž na kapalný propan?</title>
+            <link>https://vytapeni.tzb-info.cz/vytapime-plynem/21855-kam-umistit-nadrz-na-kapalny-propan</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021855ou.jpg" medium="image"/>
+            <description>Vytápění plynem je dnes i díky dotačním titulům poměrně oblíbené. Pro mnoho nemovitostí nepřipadá v úvahu zemní plyn, jednoduše proto, že v blízkosti není zbudovaná přípojka. Kapalný propan je tak výborná alternativa jak pro průmyslové provozy, velmi často umístěné mimo městskou aglomeraci, tak i pro hotely a penziony uprostřed malebných chráněných krajinných oblastí.</description>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://vytapeni.tzb-info.cz/vytapime-plynem/21855-kam-umistit-nadrz-na-kapalny-propan</guid>
+        </item>
+        <item>
+            <title>Nová průmyslová hala koncernu Muehlbauer v Nitře využívá k vytápění, chlazení a ohřevu vody systém NIBE</title>
+            <link>https://vytapeni.tzb-info.cz/21854-nova-prumyslova-hala-koncernu-muehlbauer-v-nitre-vyuziva-k-vytapeni-chlazeni-a-ohrevu-vody-system-nibe</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021854ou.jpg" medium="image"/>
+            <description>Mezinárodní koncern Muehlbauer, který působí v oblasti elektromobility, solárních technologií, průmyslu 4.0 a inovativních softwarových řešení, nedávno otevřel novou průmyslovou halu v Nitře o celkové ploše téměř 10 000 m<sup>2</sup>.</description>
+            <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://vytapeni.tzb-info.cz/21854-nova-prumyslova-hala-koncernu-muehlbauer-v-nitre-vyuziva-k-vytapeni-chlazeni-a-ohrevu-vody-system-nibe</guid>
+        </item>
+        <item>
+            <title>Stavárna on-line - Výuková a demonstrační laboratoř TZB</title>
+            <link>https://stavba.tzb-info.cz/21853-stavarna-on-line-vyukova-a-demonstracni-laborator-tzb</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021853ou.jpg" medium="image"/>
+            <description>Zajímají nás energetické systémy a vliv prostředí na člověka? V novostavbách je to běžná věc, ale zabýváme se i historickými budovami, kde třeba není možná nainstalovat klasickou klimatizaci, a přesto potřebujeme ochránit fresky, památky a umělecká díla.</description>
+            <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://stavba.tzb-info.cz/21853-stavarna-on-line-vyukova-a-demonstracni-laborator-tzb</guid>
+        </item>
+        <item>
+            <title>Nahlédněte do virtuální verze veletrhu Aquatherm Nitra 2021 již teď</title>
+            <link>https://www.tzb-info.cz/aqua-therm-praha/21852-nahlednete-do-virtualni-verze-veletrhu-aquatherm-nitra-2021-jiz-ted</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021852ou.jpg" medium="image"/>
+            <description>Veletrh TZB EXPO a zároveň Aquatherm Nitra začíná již 23. 2. 2021 u vás doma, na obrazovkách vašich počítačů, mobilů a tabletů. Jak to bude vypadat? Nahlédněte již nyní.</description>
+            <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.tzb-info.cz/aqua-therm-praha/21852-nahlednete-do-virtualni-verze-veletrhu-aquatherm-nitra-2021-jiz-ted</guid>
+        </item>
+        <item>
+            <title>Dotace pro města a obce z Paktu starostů a primátorů pro energii a klima</title>
+            <link>https://www.tzb-info.cz/dotace/21851-dotace-pro-mesta-a-obce-z-paktu-starostu-a-primatoru-pro-energii-a-klima</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021851ou.jpg" medium="image"/>
+            <description>Celková alokace výzvy činí 10 mil. Kč, na jeden projekt lze čerpat podporu až do výše 2 mil. Kč. Příjem žádostí probíhá do 30. 7. 2021, nebo do vyčerpání alokace.</description>
+            <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://www.tzb-info.cz/dotace/21851-dotace-pro-mesta-a-obce-z-paktu-starostu-a-primatoru-pro-energii-a-klima</guid>
+        </item>
+        <item>
+            <title>Poznatky z prvního webináře Izolace</title>
+            <link>https://stavba.tzb-info.cz/izolace-strechy-fasady/21850-poznatky-z-prvniho-webinare-izolace</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021850ou.jpg" medium="image"/>
+            <description>Tradiční každoroční konference s názvem IZOLACE se poprvé uskutečnila virtuálně a potvrdila, že "izolatéři" nechtějí být dlouho "izolováni". Věří, že se situace brzo změní a konference se vrátí k tradičnímu formátu. Nové zkušenosti a ohlasy hodnotí ve své glose zástupce organizátora akce Ing. Marek Novotný, Ph.D.</description>
+            <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://stavba.tzb-info.cz/izolace-strechy-fasady/21850-poznatky-z-prvniho-webinare-izolace</guid>
+        </item>
+        <item>
+            <title>Projekt společnosti Schneider Electric získal cenu enerTic za zelenou a digitální technologii</title>
+            <link>https://elektro.tzb-info.cz/21849-projekt-spolecnosti-schneider-electric-ziskal-cenu-enertic-za-zelenou-a-digitalni-technologii</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021849ou.jpg" medium="image"/>
+            <description>Společnost Schneider Electric, světový lídr v energetice a automatizaci, získala prestižní mezinárodní cenu enerTic za zelenou a digitální technologii. Její řešení pomohlo společnosti E.ON zlepšit zabezpečení, spolehlivost a účinnost sítě.</description>
+            <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://elektro.tzb-info.cz/21849-projekt-spolecnosti-schneider-electric-ziskal-cenu-enertic-za-zelenou-a-digitalni-technologii</guid>
+        </item>
+        <item>
+            <title>Letos na jaře proběhne po 10 letech nejen sčítání lidu, ale také domů a bytů</title>
+            <link>https://stavba.tzb-info.cz/21848-letos-na-jare-probehne-po-10-letech-nejen-scitani-lidu-ale-take-domu-a-bytu</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021848ou.jpg" medium="image"/>
+            <description>Data ze sčítání ovlivňují objem a rozmístění stavebních prací v Česku. Tentokrát je i s ohledem na epidemickou situaci primárně připravováno jako online, vůbec poprvé v naší historii.</description>
+            <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://stavba.tzb-info.cz/21848-letos-na-jare-probehne-po-10-letech-nejen-scitani-lidu-ale-take-domu-a-bytu</guid>
+        </item>
+        <item>
+            <title>Přední firmy podepsaly memorandum o udržitelnosti a vyzývají vládu k jednání</title>
+            <link>https://oze.tzb-info.cz/21847-predni-firmy-podepsaly-memorandum-o-udrzitelnosti-a-vyzyvaji-vladu-k-jednani</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021847ou.jpg" medium="image"/>
+            <description>Šéfové dvanácti významných mezinárodních firem z osmi různých oborů se ve společném memorandu Driving Sustainability naléhavě vyslovili pro přechod k udržitelnému hospodářství.</description>
+            <pubDate>Fri, 12 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://oze.tzb-info.cz/21847-predni-firmy-podepsaly-memorandum-o-udrzitelnosti-a-vyzyvaji-vladu-k-jednani</guid>
+        </item>
+        <item>
+            <title>BYD Commercial jako nový trend při skladování energie ve firmách</title>
+            <link>https://oze.tzb-info.cz/akumulace-elektriny/21846-byd-commercial-jako-novy-trend-pri-skladovani-energie-ve-firmach</link>
+            <media:content url="https://www.tzb-info.cz/docu/clanky/0218/021846ou.png" medium="image"/>
+            <description>Zájem o energetickou soběstačnost přichází jak ze strany běžných domácností, tak i ze strany firem. V rámci programů OPPIK mohly firmy zažádat o dotace na fotovoltaickou elektrárnu (FVE) a bateriová úložiště a rády této možnosti využily.</description>
+            <pubDate>Fri, 12 Feb 2021 00:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://oze.tzb-info.cz/akumulace-elektriny/21846-byd-commercial-jako-novy-trend-pri-skladovani-energie-ve-firmach</guid>
+        </item>
+    </channel>
+</rss>

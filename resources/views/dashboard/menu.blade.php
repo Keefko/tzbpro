@@ -3,15 +3,14 @@
 
 
 @section('content')
-        <div class="wrapper">
-            @include('dashboard.partials._menu')
-            <div class="main_container">
-                <h1 class="pt-4 pb-2"><b>Nastavenia menu</b></h1>
-                <div class="item mt-2">
-                    <div class="row">
-                        {!! \Harimayco\Menu\Facades\Menu::render() !!}
-                    </div>
-                </div>
-            </div>
+
+    @include('dashboard.partials.sidebar')
+    <h1 class="mt-4">Nastavenia menu</h1>
+    <div class="item-normal mt-2">
+        <div class="row">
+            {!! \Harimayco\Menu\Facades\Menu::render() !!}
         </div>
+    </div>
+    @include('dashboard.partials.ending')
+
 @endsection

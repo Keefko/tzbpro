@@ -1885,7 +1885,7 @@ var wpNavMenu;
             a("#menu-management input, #menu-management select, #menu-management, #menu-management textarea, .menu-location-menus select").change(function() {
                 b.registerChange()
             }), 0 !== a("#menu-to-edit").length || 0 !== a(".menu-location-menus select").length ? window.onbeforeunload = function() {
-             
+
             } : a("#menu-settings-column").find("input,select").end().find("a").attr("href", "#").unbind("click")
         },
         registerChange: function() {
@@ -1920,22 +1920,22 @@ var wpNavMenu;
                 d = a(b).closest(".menu-item");
             return d.removeClass("menu-item-edit-active").addClass("menu-item-edit-inactive"), c.setItemData(c.data("menu-item-data")).hide(), !1
         },
-       
+
         eventOnClickMenuItemDelete: function(c) {
-        	
+
         	var r = confirm("Do you want to delete this item ?");
 if (r == true) {
    var d = parseInt(c.id.replace("delete-", ""), 10);
                deleteitem(d);
 
             return b.removeMenuItem(a("#menu-item-" + d)), b.registerChange(), !1
-            
+
 }else{
 	return false;
 }
-        	
-        	
-           
+
+
+
         },
         processQuickSearchQueryResponse: function(b, c, d) {
             var e, f, g, h = {},

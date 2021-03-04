@@ -2,15 +2,20 @@
 
     @include('partials/menu')
 
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-9 col-md-12 col-sm-12">
-                <h3>Naša spoločnosť je člennom Slovenskej Komory Stavebných inžinierov(SKSI)</h3>
-                <h1>Viacročná činnosť v daných profesiách
-                    Vám zaručuje odbornosť a kvalitu
-                    našich služieb!</h1>
-                <a href="#" class="btn btn-custom-white">Zistiť viac</a>
-            </div>
+    <div class="masthead container">
+        @if($section->text_active == 1)
+
+                {!! $section->text!!}
+
+        @endif
+        <h1 class="pt-3"> {{$section->title}}</h1>
+        <div class="mt-4">
+            @if(!empty($section->button_first_text) || $section->button_first_text != null)
+                <a href="{{$section->button_first_url}}" class="btn btn-custom btn-custom-white">{{$section->button_first_text}}</a>
+            @endif
+            @if(!empty($section->button_second_text) || $section->button_second_text != null)
+                <a href="{{$section->button_second_url}}" class="btn btn-custom btn-custom-white-full">{{$section->button_second_text}}</a>
+            @endif
         </div>
     </div>
 </header>

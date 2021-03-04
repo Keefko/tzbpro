@@ -14,9 +14,14 @@
     <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ asset('styles.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{asset('flaticon/flaticon.css')}}">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     <script type="text/javascript" src="{{asset('vendor/harimayco-menu/scripts.js')}}"></script>
     <script type="text/javascript" src="{{asset('vendor/harimayco-menu/scripts2.js')}}"></script>
     <script type="text/javascript" src="{{asset('vendor/harimayco-menu/menu.js')}}"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js?apiKey=056ndm302q5fg2a4qyl70du9n8aels7i3oy1vgpl2wk6f79a"></script>
+    <script type="text/javascript" src="{{asset('index.js')}}"></script>
+
     <script>
         var menus = {
             "oneThemeLocationNoMenus" : "",
@@ -47,24 +52,14 @@
     </script>
 
     <script>
-        $(document).ready(function(){
-            $(".hamburger").click(function () {
-                $('.wrapper').toggleClass("toggle");
-            });
-            $(".dropdown").hover(
-                function() {
-                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop( true, true ).slideDown("fast");
-                    $(this).toggleClass('open');
-                },
-                function() {
-                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop( true, true ).slideUp("fast");
-                    $(this).toggleClass('open');
-                }
-            );
-        });
+
     </script>
 </head>
+<body>
 
 @yield('content')
 
+
+<div id="preloader"></div>
+</body>
 </html>

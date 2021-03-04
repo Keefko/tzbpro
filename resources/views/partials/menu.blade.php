@@ -1,9 +1,13 @@
-<nav class="navbar  navbar-expand-lg transparent fixed-top" id="mainNav" role="navigation">
-    {{--<a href="{{url('/')}}"><img  src="{{asset('img/images/'.$image->img)}}" style="max-height: 60px; width: 100%"/></a>--}}
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <nav class="navbar navbar-expand-lg bg-transparent fixed-top" id="navbar">
+        <a class="navbar-brand" href="#">TZBpro</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <div class="navbar-toggler-inner"></div>
+            </div>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <?php $public_menu = Menu::getByName('Main'); ?>
         @if($public_menu)
             <ul class="navbar-nav ml-auto">
@@ -28,8 +32,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url('dashboard') }}">Admin panel</a>
                     </li>
-                    <li class="nav-item pt-2">
-                        <a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('frm-logout').submit();">
+                    <li class="nav-item">
+                        <a href="{{ route('logout') }}" class="nav-link text-danger" onclick="event.preventDefault(); document.getElementById('frm-logout').submit();">
                             Odhlásiť sa
                         </a>
                     </li>
